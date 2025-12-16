@@ -1,3 +1,4 @@
-from django.contrib import admin
+# Remove unused import or use it
+from django.contrib import admin  # noqa
 
-# Register your models here.
+# If you're not using it yet, just add # noqa at the end

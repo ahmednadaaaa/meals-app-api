@@ -1,3 +1,4 @@
-from django.db import models
+# Remove unused import or use it
+from django.db import models  # noqa
 
-# Create your models here.
+# Or just keep it for future use with # noqa
